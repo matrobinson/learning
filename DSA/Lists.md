@@ -39,6 +39,10 @@ What happens if something is tried to be stored in the hash table where somethin
 	- Chaining - each index in the hastable points to a linked list. This linked list is a collection of all collisions
 	- Open addressing - next available slot is found if collision occurs. Common strategies for this include:
         	- Linear probing, quadratic probing or double hashing
+      	- The quality of the hash function is paramount to effective use of hash tables
+        	- If the hash function is poor then a lot of collisions will occur and the table can start to perform like a linked list - having to traverse over each node one by one. This turns the time complexity from O(1) to O(n) - constant time to linear time
+
+
 
 
   
