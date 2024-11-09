@@ -42,6 +42,10 @@ What happens if something is tried to be stored in the hash table where somethin
       	- The quality of the hash function is paramount to effective use of hash tables
         	- If the hash function is poor then a lot of collisions will occur and the table can start to perform like a linked list - having to traverse over each node one by one. This turns the time complexity from O(1) to O(n) - constant time to linear time
 
+- Linear probing - next index increment search
+- Quadratic probing - next item search jumps to the next square of the number of collsions
+- Double hashing - uses a second hash function as the prob step size. Better performance but more complex to implement.
+- 
 
 
 
