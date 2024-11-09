@@ -1,5 +1,5 @@
 
-### Data Structures & Algorithms - Lists, Arrays, Stacks and Heaps
+## Data Structures & Algorithms - Lists, Arrays, Stacks and Heaps
 
 "The first rule of data structures is: You do not confuse lists, arrays, stacks, and heaps. The second rule of data structures is: You do not confuse lists, arrays, stacks, and heaps."
 
