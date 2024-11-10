@@ -4,7 +4,9 @@
 ### What is a derivative? 
 A derivative is the rate of change of a function at a certain point. Take for example a function of
 
-$$ $$y = f(x)
+$$
+y = f(x)
+$$
 
 ### Product, Quotient & Chain Rule
 #### Product rule
