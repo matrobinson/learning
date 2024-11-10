@@ -45,8 +45,7 @@ What happens if something is tried to be stored in the hash table where somethin
 - Quadratic probing - next item search jumps to the next square of the number of collsions
 - Double hashing - uses a second hash function as the prob step size. Better performance but more complex to implement.
 
-
-
+### 
 
 
   

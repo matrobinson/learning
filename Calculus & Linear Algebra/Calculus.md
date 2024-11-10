@@ -68,7 +68,6 @@ Take an alternative example of investing the S&P 500. In a practical scenario th
 
 This is why measuring the rate of change of something is central to finance. It helps predict risk and reward
 
-
 ### Fundamental Theorem of Calculus
 The connection between differentiation and integration
 
