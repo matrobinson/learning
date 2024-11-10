@@ -8,8 +8,8 @@ $$
 y = f(x)
 $$
 
+Then the change in y with respect to the change in x can be written as:
 $$ 
-Then the change in y with respect to the change in x can be written as
 \frac{dy}{dx} = f'(x)
 $$
 
