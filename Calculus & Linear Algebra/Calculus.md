@@ -14,7 +14,9 @@ y = g(x)
 
 Then the change in Y with respect to changes in X can be calculated using the following rule.
 
-$$ $${dy/dx = f'(x).g(x) + f(x).g'(x)}
+$$
+\frac{d}{dx}[f(x) \cdot g(x)] = f'(x) \cdot g(x) + f(x) \cdot g'(x)
+$$
 
 Which translates to the derivative of f(x) multiplied by g(x) + f(x) multiplied by the dervivative of g(x)
 
@@ -23,7 +25,9 @@ Which translates to the derivative of f(x) multiplied by g(x) + f(x) multiplied 
 - The quotient rule acts as the invers of the product rule.
 - It can be instantiated as:
 
-$$ $$ dy/dx = (f'(x).g(x) - f(x).g'(x)) / (g(x))**2
+$$
+\frac{dy}{dx} = \frac{f'(x) \cdot g(x) - f(x) \cdot g'(x)}{(g(x))^2}
+$$
 
 
 
