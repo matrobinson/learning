@@ -23,7 +23,7 @@ y = f(x)
 $$
 
 $$
-f(x) = x^3
+where f(x) = x^3
 $$
 
 The generalised power rule states that the dervivative of the this function at any value of X is equal to:
@@ -32,7 +32,7 @@ $$
 f'(x) = 2x^2
 $$ 
 
-'The derivative of f(x) - or f prime x
+We can say - *'The derivative of f(x) - or f prime x is 2 x squared'*
 
 #### Product rule
 - The product rule states that where we have the product of two functions i.e   
