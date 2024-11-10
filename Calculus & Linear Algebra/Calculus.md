@@ -27,7 +27,7 @@ $$
 \frac{d}{dx}[f(x) \cdot g(x)] = f'(x) \cdot g(x) + f(x) \cdot g'(x)
 $$
 
-Which translates to the derivative of f(x) multiplied by g(x) + f(x) multiplied by the dervivative of g(x)
+Which translates to the derivative of $$ \f(x) $$ multiplied by g(x) + f(x) multiplied by the dervivative of g(x)
 
 
 ### The quotient rule
