@@ -8,6 +8,12 @@ $$
 y = f(x)
 $$
 
+$$ 
+Then the change in y with respect to the change in x can be written as
+\frac{dy}{dx} = f'(x)
+$$
+
+
 ### Product, Quotient & Chain Rule
 #### Product rule
 - The product rule states that where we have the product of two functions i.e   
