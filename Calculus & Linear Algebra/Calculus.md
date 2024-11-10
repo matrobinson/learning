@@ -20,13 +20,16 @@ Take a function of:
 
 $$
 y = f(x)
-f(x) = x**3
+$$
+
+$$
+f(x) = x^3
 $$
 
 The generalised power rule states that the dervivative of the this function at any value of X is equal to:
 
 $$
-f'(x) = 2x**2
+f'(x) = 2x^2
 $$ 
 
 'The derivative of f(x) - or f prime x
